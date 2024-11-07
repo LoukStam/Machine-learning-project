@@ -1,0 +1,10 @@
+Main axis:
+1. Ethnicity: Hispanic, African-American, Arab, Asian, European
+2. Religion
+3. Sex
+4. Wealth
+5. Age
+
+Go statewide with the data.
+See how many votes correspond to each state.
+Do the general election.
