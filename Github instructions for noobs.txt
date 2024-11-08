@@ -1,0 +1,5 @@
+IN GITBASH
+1. Git status to see whats missing
+2. Git commit -> takes you to a window, you just type the name of the commit -> save -> close window
+3. Git push
+4. Git status to make sure everythings ok
