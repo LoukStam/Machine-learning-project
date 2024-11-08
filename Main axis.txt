@@ -8,3 +8,24 @@ Main axis:
 Go statewide with the data.
 See how many votes correspond to each state.
 Do the general election.
+
+FEATURES MATRIX X: Gather data for each state. Train in 2016, test in 2020.
+		   Perform kfold linear regression on the sample
+
+STATES  | Mean Age | Age under 17 | Age over... | % Hispanic | % Black | % White 
+Alabama |
+Arkansas|
+.   
+.
+.
+Wyoming |
+
+TARGET y: One y for each state. y=[Rep votes, Dem votes, Other votes]
+	  Train y for 2016
+	  Test y for 2020
+
+	  Final y array is constructed by the relative votes of each state.
+
+FINAL: Gather same data for 2024...
+       Maybe have both 2016 and 2020 as training data
+       2024 as test data
