@@ -4,7 +4,11 @@ Main axis:
 3. Sex
 4. Wealth
 5. Age
+6. %unemployed
+7. %rural
 
+Data files: Use the 2012, 2016 elections csv file for everything at the beginning.
+	    Do the correct mean and sum for each useful variable.
 Go statewide with the data.
 See how many votes correspond to each state.
 Do the general election.
