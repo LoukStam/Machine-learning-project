@@ -1,10 +1,13 @@
 For census.gov
-group:DP05_
+Notes: Works for datasets until 2017.
+       Some are 1-year studies, others (like for 2020) are 5-year. 
+.../acs1/profile : 1 year
+.../acs5/profile : 5 year
 
 DP05_0018E : MEDIAN AGE
 DP05_0019PE : % under 18
-DP05_0029PE : % 65+
-DP05_0025PE : % 18+
+DP05_0024PE : % 65+
+DP05_0021PE : % 18+
 DP05_0037PE : % One race WHITE
 DP05_0038PE : % One race BLACK
 DP05_0061PE : % Two or more races
