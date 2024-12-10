@@ -1,0 +1,17 @@
+For census.gov
+group:DP05_
+
+DP05_0018E : MEDIAN AGE
+DP05_0019PE : % under 18
+DP05_0029PE : % 65+
+DP05_0025PE : % 18+
+DP05_0037PE : % One race WHITE
+DP05_0038PE : % One race BLACK
+DP05_0061PE : % Two or more races
+DP05_0077PE : % One race Mexicans
+DP05_0047PE : % One race Asian
+DP05_0057PE : % One race Native Hawaiian
+DP05_0060PE : % One race Some Other Race 
+
+DP04_0134PE : Median rent in dollars
+DP04_0136PE : GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)
